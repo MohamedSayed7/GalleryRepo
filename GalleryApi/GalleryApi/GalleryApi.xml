@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GalleryApi</name>
+    </assembly>
+    <members>
+        <member name="M:GalleryApi.Controllers.GalleryController.Get">
+            <summary>
+            Api Responsable for Fet All Images
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GalleryApi.Controllers.GalleryController.UploadImage(GalleryApi.ViewModel.FileInfo)">
+            <summary>
+            Api Responsable for Upload Image 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GalleryApi.Controllers.GalleryController.Delete(System.String)">
+            <summary>
+            Api Responsable for Delete Image 
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:GalleryApi.Controllers.GalleryController.DeleteAllImages">
+            <summary>
+            Api Responsable for Delete All Images 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
