@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xIlKS08IdNR+Ys8wvYGbGXZeKbSCZ3wpGghCXwj8uNkBA7IyVnCkFiBeCtMfGYwuribDwxV3BkvVRChqehbRrA==",
+  "dgSpecHash": "+/yMKPsPHrbxrtiqziRRUiFiDpPyQv3fXmK+iovfCOOwI7T4Pm64+MPMISs49ywDOSejYV5VHrg3X2RmtPHFpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.sayed\\Source\\Repos\\GalleryApp\\GalleryApi\\GalleryApi\\GalleryApi.csproj",
+  "projectFilePath": "D:\\AnPr\\GalleryRepo\\GalleryApi\\GalleryApi\\GalleryApi.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

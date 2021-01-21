@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.sayed\\Source\\Repos\\GalleryApp\\GalleryApi\\GalleryApi\\GalleryApi.csproj": {}
+    "D:\\AnPr\\GalleryRepo\\GalleryApi\\GalleryApi\\GalleryApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.sayed\\Source\\Repos\\GalleryApp\\GalleryApi\\GalleryApi\\GalleryApi.csproj": {
+    "D:\\AnPr\\GalleryRepo\\GalleryApi\\GalleryApi\\GalleryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.sayed\\Source\\Repos\\GalleryApp\\GalleryApi\\GalleryApi\\GalleryApi.csproj",
+        "projectUniqueName": "D:\\AnPr\\GalleryRepo\\GalleryApi\\GalleryApi\\GalleryApi.csproj",
         "projectName": "GalleryApi",
-        "projectPath": "C:\\Users\\m.sayed\\Source\\Repos\\GalleryApp\\GalleryApi\\GalleryApi\\GalleryApi.csproj",
+        "projectPath": "D:\\AnPr\\GalleryRepo\\GalleryApi\\GalleryApi\\GalleryApi.csproj",
         "packagesPath": "C:\\Users\\m.sayed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.sayed\\Source\\Repos\\GalleryApp\\GalleryApi\\GalleryApi\\obj\\",
+        "outputPath": "D:\\AnPr\\GalleryRepo\\GalleryApi\\GalleryApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
